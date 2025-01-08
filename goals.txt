@@ -1,5 +1,5 @@
 Pencapaian di tahun 2024
-1.Menguasai php
+1.Menguasai python
 2.Menguasai database
 3.Menguasai Bootstrap
 4.Menguasai Figma
